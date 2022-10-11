@@ -1,1 +1,6 @@
-alert("cargado");
+
+window.onload=function (){
+ 
+     alert("cargado");
+ 
+}
